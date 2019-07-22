@@ -22,8 +22,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	show_read_time = false
 
 	# Add custom assets with their paths relative to the static folder
-	custom_js   = []
-	custom_css  = []
+	# custom_js   = []
+	# custom_css  = []
 
 
 	[params.sidebar]
