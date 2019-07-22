@@ -1,15 +1,13 @@
-baseurl = "http://www.johnwilson.co/"
+baseurl = "https://www.johnwilson.co"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
-# disqusShortname = "spf13"
+disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-# helpful link: https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -43,7 +41,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 			"&copy; John Wilson"
 			]
 
-
 	[params.about]
 		hide  = false
 		title = "Welcome"
@@ -70,7 +67,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 	[params.recentposts]
 		hide  = true
-		title = "Recent blog posts"
+		title = "Recent work"
 
 	[params.contact]
 		hide  = false
