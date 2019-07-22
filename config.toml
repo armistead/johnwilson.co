@@ -1,4 +1,4 @@
-baseurl = "https://www.johnwilson.co"
+baseurl = "http://www.johnwilson.co"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
