@@ -1,6 +1,6 @@
 baseurl = "https://www.johnwilson.co/"
 languageCode = "en-us"
-title = "Strata"
+title = "John Wilson"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
