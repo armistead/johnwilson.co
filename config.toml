@@ -54,16 +54,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.png"
-			thumb = "thumbs/01.png"
+			image = "fulls/01.jpg"
+			thumb = "thumbs/01.jpg"
 			title = "Tableau"
 			description = "Here is a tool I built for finding and filtering for vegan/vegetarian restaurants across the US. [Click here to view public dashboard.](//public.tableau.com/views/VeganVegetarianRestaurantsintheUS/Dashboard)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.png"
-			thumb = "thumbs/02.png"
+			image = "fulls/02.jpg"
+			thumb = "thumbs/02.jpg"
 			title = "R"
 			description = "This is part of an assignment I completed for a Coursera on Data Science with R. [Visit the RPubs page for details.](//rpubs.com/Armistead/299196)"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Excel"
+			description = "A Valuation model for fictitious distruptor in capital-intensive industry, NewCo. [View the workbook here.](//1drv.ms/x/s!Apq9-RDIUvAl_ECEU4fYtm90hlcl)"
 
 	[params.recentposts]
 		hide  = true
