@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	[params.about]
 		hide  = false
 		title = "Welcome"
-		content = "My background is in analytics, strategy, finance, and operations. I'm currently Manager for Reporting & Analysis at Brookdale Senior Living. I also consult occasionally, so please fill out the form below to get in touch. Here's a sample of some of the kind of work that I do."
+		content = "My background is in analytics, strategy, finance, and operations. I'm currently Director for Advanced Analytics at Brookdale Senior Living. Here's a sample of some of the kind of work that I do."
 
 	[params.portfolio]
 		hide  = false
